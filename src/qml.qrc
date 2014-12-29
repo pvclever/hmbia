@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>BracketSelector.qml</file>
+        <file>Main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>BracketSelectorForm.ui.qml</file>
+        <file>BSelectorData.js</file>
+    </qresource>
+</RCC>

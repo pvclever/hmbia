@@ -7,7 +7,7 @@
 		property alias choice_list: choice_list
         property alias roundLabel: roundLabel
         property alias warriorsLabel: warriorsLabel
-        width: 180
+        width: 200
         height: 250
         Rectangle {
             id: rectangle1
@@ -25,12 +25,14 @@
 	    id: choice_list
         x: 13
         y: 77
-        width: 198
+        width: 184
         height: 150
+        anchors.right: parent.right
+        anchors.rightMargin: 8
         anchors.leftMargin: 8
         anchors.left: parent.left
         transformOrigin: Item.Center
-        spacing: 10
+        spacing: 8
     }
 
  Label {

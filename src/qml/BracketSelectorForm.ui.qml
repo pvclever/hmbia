@@ -15,7 +15,7 @@
             y: 8
             width: 200
             height: 230
-            color: "#ffffff"
+			color: "#ffffff"
             anchors.top: parent.top
             anchors.topMargin: 8
             anchors.left: parent.left

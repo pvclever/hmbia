@@ -10,5 +10,9 @@ PairItemForm {
         return Qt.point(x, y + height/2);
     }
 
+	function setName(name){
+		pairName.text = name;
+	}
+
 }
 

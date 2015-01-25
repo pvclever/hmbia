@@ -12,7 +12,7 @@ ApplicationWindow {
     height: 600
 
     Component.onCompleted: {
-        boxes.newChoice.connect (function (){treeBrackets.paintTree(boxes.getRounds())});
+		boxes.bracketComplete.connect (function (){treeBrackets.paintTree(boxes.getRounds())});
     }
     ScrollView{
     anchors.fill: parent

@@ -7,5 +7,7 @@
         <file>qml/PairItem.qml</file>
         <file>qml/PairItemForm.ui.qml</file>
         <file>qml/TreeBrackets.qml</file>
+        <file>qml/logic/BNode.js</file>
+        <file>qml/logic/BSelectorData.js</file>
     </qresource>
 </RCC>

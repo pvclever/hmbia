@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/logic">
+        <file>BNode.js</file>
+        <file>BSelectorData.js</file>
+    </qresource>
+</RCC>

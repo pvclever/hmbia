@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Boxes.qml</file>
+        <file>BracketSelector.qml</file>
+        <file>BracketSelectorForm.ui.qml</file>
+        <file>Main.qml</file>
+        <file>PairItem.qml</file>
+        <file>PairItemForm.ui.qml</file>
+        <file>TreeBrackets.qml</file>
+    </qresource>
+</RCC>
